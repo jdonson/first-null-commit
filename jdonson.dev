@@ -28,6 +28,12 @@ In order to accomplish this:
 
 	=>  Confirm current repo.
 
-8,  $ git push
+macusers-MacBook-Pro:first-null-commit macuser$ git status
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+nothing to commit (working directory clean)
+
+8.  $ git push
 
 	=> Push these changes and view them on github.
