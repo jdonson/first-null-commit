@@ -6,6 +6,29 @@ Null commit; third dev?  Look at team dev issues.
 ? => documenting instructions for null commit
 ? => look at git training syllabi
 
+Git and GitHub Team Dev
+
+TEAM DEV INITIATION TASKS
+
+	Task 1:		Register With Dev Team + Get Kitchen Set Up (OS, Browser, Skype, irc, github, cacoo, codepen)
+
+	Task 2:		Clone to local and Null Commit to First-Null-Commit repo.  Straight solo push.
+
+	Task 3:		First problem:  github origin repo is ahead of your local repo
+
+	Task 4:		Second problem:  same, but you wanted to undo your last prior commit
+
+	Task 5:		Third problem:  same, but you also just committed to local repo and have not yet pushed.  Deadlock?
+
+	Task 6:		Use diagrams to clarify the conflicts at play.
+
+	Task 7:		Leverage GitHub Issues to organize tasks!
+
+	Task 8:		Make this repo part of another repo:  github-project-team-dev-onboarding
+
+	Task 9:		Consider branches and merges to keep commits current and master pure.
+
+
 WEEK 2.  MAMP
 
 Testing apache, php, mysql, jquery, instance migration
