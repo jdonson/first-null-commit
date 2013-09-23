@@ -1,0 +1,26 @@
+PROPOSED Weekly Goals For Next Four Weeks:
+
+WEEK 1.   GIT
+
+Null commit; third dev?  Look at team dev issues.
+? => documenting instructions for null commit
+? => look at git training syllabi
+
+WEEK 2.  MAMP
+
+Testing apache, php, mysql, jquery, instance migration
+Documenting set up of your system; " for windows
+Find more devs!
+
+WEEK 3:  PHP
+installing https://github.com/symfony/symfony-standard into mamp root and testing it with php code
+!! => Reading this together:
+http://symfony.com/pdf/Symfony_book_2.3.pdf?v=3
+
+WEEK 4:  FaceBook
+https://developers.facebook.com/docs/reference/api/group/
+https://github.com/FriendsOfSymfony/FOSFacebookBundle
+
+WEEK 5:  Recap and Plan Next 4 Weeks!
+
+LinkedIn Profile + GitHub Profile Plan ??
