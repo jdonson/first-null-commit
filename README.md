@@ -1,6 +1,10 @@
 first-null-commit
 =================
 
+https://developer.github.com/guides/ => start here and ask questions here...
+
+https://www.facebook.com/groups/osswebdevbackend/
+
 New devs... first NULL commit to github....
 
 Here are some git basics for those new to git and github.
