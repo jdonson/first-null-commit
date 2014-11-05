@@ -1,6 +1,6 @@
 first-null-commit
 =================
-
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
 https://developer.github.com/guides/ => start here and ask questions here...
 
 https://www.facebook.com/groups/osswebdevbackend/
@@ -58,17 +58,6 @@ nothing to commit (working directory clean)
 8.  $ git push
 
 	=> Push these changes and view them on github.
-
-
-
-
-
-
-
-
-
-
-
 
 
 
