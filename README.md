@@ -58,3 +58,18 @@ nothing to commit (working directory clean)
 8.  $ git push
 
 	=> Push these changes and view them on github.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Just committing a change and going through each step mentioned. Thanks! I'll delete this line soon after. -DikDur
